@@ -9,6 +9,9 @@ This project is a YouTube clone built using React and utilizing the RapidAPI ext
 - **Visit Channel**: Users can visit any YT channel and see their videos.
 - **Responsive Design**: The UI is designed to be responsive, ensuring a consistent experience across devices.
 
+## Live Preview 
+A live preview of the website is hosted at [https://youtube-react-arj.netlify.app/](https://youtube-react-arj.netlify.app/)
+
 ## Installation 🚀
 
 1. Clone the repository:
